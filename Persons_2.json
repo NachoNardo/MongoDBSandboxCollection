@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Gray",
+    "age": 43,
+    "sex": "male",
+    "hasKids": true,
+    "numKids": 5
+  },
+  {
+    "name": "Vanessa",
+    "age": 35,
+    "sex": "female",
+    "hasKids": false,
+    "numKids": 0
+  },
+  {
+    "name": "Kennedy",
+    "age": 61,
+    "sex": "male",
+    "hasKids": false,
+    "numKids": 0
+  },
+  {
+    "name": "Vickie",
+    "age": 19,
+    "sex": "female",
+    "hasKids": true,
+    "numKids": 3
+  },
+  {
+    "name": "Miles",
+    "age": 70,
+    "sex": "male",
+    "hasKids": true,
+    "numKids": 5
+  }
+]

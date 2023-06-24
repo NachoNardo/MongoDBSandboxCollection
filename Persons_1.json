@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Terry",
+    "age": 114,
+    "sex": "female",
+    "hasKids": false,
+    "numKids": 0
+  },
+  {
+    "name": "Martinez",
+    "age": 111,
+    "sex": "male",
+    "hasKids": true,
+    "numKids": 3
+  },
+  {
+    "name": "Lois",
+    "age": 86,
+    "sex": "female",
+    "hasKids": true,
+    "numKids": 2
+  },
+  {
+    "name": "Fisher",
+    "age": 63,
+    "sex": "male",
+    "hasKids": false,
+    "numKids": 0
+  },
+  {
+    "name": "Olga",
+    "age": 113,
+    "sex": "female",
+    "hasKids": true,
+    "numKids": 5
+  }
+]
